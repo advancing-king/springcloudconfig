@@ -2,12 +2,7 @@
   profiles:
     active:
     - dev
-## 对当前的微服务做说明
-info:
-  app.name: ljz-springcloud
-  company.name: www.sanyueshiqi.cn
-  build.artifactId: ${project.artifactId}
-  build.version: ${project.version}
+
 ---
 
 server:
