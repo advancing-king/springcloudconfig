@@ -2,4 +2,5 @@ aabbbcc11
 123456
 public void m() {
  int i = 1;
+ int b = 2;
 }
