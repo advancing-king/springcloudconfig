@@ -3,4 +3,6 @@ aabbbcc11
 public void m() {
  int i = 1;
  int d = 4;
+ int b = 2;
+ int c = 3;
 }
