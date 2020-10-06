@@ -8,3 +8,7 @@ public void m() {
  int c = 3;
   int c = 3;
 }
+
+public void m2() {
+  int c = 3;
+}
