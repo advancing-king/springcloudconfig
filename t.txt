@@ -6,4 +6,5 @@ public void m() {
  int b = 2;
  int c = 3;
  int c = 3;
+  int c = 3;
 }
