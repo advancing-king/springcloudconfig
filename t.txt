@@ -26,6 +26,9 @@ public void m6() {
   int c = 3;
 }
 
+
 public void m7() {
   int c = 3;
+    //修复bug
+    int c = 4;
 }
