@@ -35,3 +35,8 @@ public void m8() {
   int c = 3;
   int d = 5;
 }
+
+//开发中,突然来bug了，还不想提交
+public void m9() {
+  int c = 3;
+}
