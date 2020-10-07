@@ -31,5 +31,7 @@ public void m7() {
 }
 
 public void m8() {
+//修复bug
   int c = 3;
+  int d = 5;
 }
